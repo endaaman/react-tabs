@@ -1,0 +1,55 @@
+{
+  "name": "react-tabs",
+  "version": "0.5.3",
+  "description": "React tabs component",
+  "main": "lib/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rackt/react-tabs.git"
+  },
+  "author": {
+    "name": "Matt Zabriskie"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rackt/react-tabs/issues"
+  },
+  "homepage": "https://github.com/rackt/react-tabs",
+  "keywords": [
+    "react",
+    "tabs",
+    "a11y",
+    "react-component"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*"
+  },
+  "dependencies": {
+    "classnames": "^2.2",
+    "js-stylesheet": "^0.0.1"
+  },
+  "_id": "react-tabs@0.5.3",
+  "scripts": {},
+  "_shasum": "b51681033f84457e7f110c4da8fa68f3ea47b6a5",
+  "_from": "react-tabs@latest",
+  "_resolved": "https://registry.npmjs.org/react-tabs/-/react-tabs-0.5.3.tgz",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.5.0",
+  "_npmUser": {
+    "name": "mzabriskie",
+    "email": "mzabriskie@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "mzabriskie",
+      "email": "mzabriskie@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "b51681033f84457e7f110c4da8fa68f3ea47b6a5",
+    "tarball": "https://registry.npmjs.org/react-tabs/-/react-tabs-0.5.3.tgz"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
